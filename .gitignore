@@ -5,9 +5,12 @@
 [Bb]uilds/
 [Ll]ogs/
 Assets/AssetStoreTools*
+UserSettings/
 
 # Visual Studio cache directory
 .vs/
+
+.idea/
 
 # Gradle cache directory
 .gradle/
